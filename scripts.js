@@ -1,3 +1,5 @@
-$(function () {
-  const slider = document.getElementsByClassName("slider").item(0);
+$(window).load(function () {
+  $(function () {
+    const slider = document.getElementsByClassName("slider").item(0);
+  });
 });
